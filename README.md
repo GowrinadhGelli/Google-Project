@@ -201,6 +201,8 @@ This project showcases the integration of AI, cloud services, and web technologi
 - 🔥 Firebase Realtime Database
 - ☁️ Google Cloud Run
 
+##Want to know more:
+
 To learn more about Google Cloud services and to create impact for the work you do, get around to these steps right away:
 - Register for Code Vipassana sessions
 - Join the meetup group Datapreneur Social
