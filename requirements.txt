@@ -4,4 +4,4 @@ python-dotenv
 langchain
 PyPDF2
 chromadb
-firebase-admin
+firebase_admin
